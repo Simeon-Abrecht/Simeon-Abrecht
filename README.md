@@ -2,7 +2,7 @@
 
 I’m passionate about working with **AI, machine learning, and data-driven systems**, with a particular interest in **LLM security and evaluation**.
 
-- 🎓 I’ve just completed my **Master’s thesis on large language model security**  
+- 🎓 My **Master’s thesis on large language model security**  
   → Project code:  
   [Evaluating the Defensive Capabilities and Reasoning Mechanisms of Open-Source Reasoning Models](https://github.com/Simeon-Abrecht/Evaluating-the-Defensive-Capabilities-and-Reasoning-Mechanisms-of-OpenSource-Reasoning-Models)
 
