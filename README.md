@@ -3,8 +3,7 @@
 I’m passionate about working with **AI, machine learning, and data-driven systems**, with a particular interest in **Data Science** and **Machine Learning**.
 I am in the process of uploading some of my completed and ongoing projects. Here is what have so far: 
 
-- 🎓 My **Master’s thesis on large language model security**  
-  → Project code:  
+- 🎓 My **Master’s thesis on large language model security**   
   [Evaluating the Defensive Capabilities and Reasoning Mechanisms of Open-Source Reasoning Models](https://github.com/Simeon-Abrecht/Evaluating-the-Defensive-Capabilities-and-Reasoning-Mechanisms-of-OpenSource-Reasoning-Models)
 
 - 🛠️ I’ve also recently uploaded several other projects, including:
